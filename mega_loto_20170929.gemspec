@@ -34,6 +34,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.16.a"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
+  spec.add_development_dependency "pry"
   # add_development_dependency — 定义一个开发环境依赖。
   # 当被用于生产环境或者当开发我们的宿主程序时，这些依赖不会被安装；
   # 只有在开发本地 gem 时才会被安装。
