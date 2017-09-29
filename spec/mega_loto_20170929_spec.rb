@@ -3,7 +3,7 @@ RSpec.describe MegaLoto20170929 do
     expect(MegaLoto20170929::VERSION).not_to be nil
   end
 
-  it "does something useful" do
-    expect(false).to eq(true)
-  end
+  # it "does something useful" do
+  #   expect(false).to eq(true)
+  # end
 end
