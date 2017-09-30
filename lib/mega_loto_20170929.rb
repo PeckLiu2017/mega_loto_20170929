@@ -1,5 +1,7 @@
 require "mega_loto_20170929/version"
 require "mega_loto_20170929/drawing"
+require "mega_loto_20170929/string_method"
+
 # lib/mega_loto_20170929.rb 文件是加载其他代码到 gem 里的主要入口。
 begin
   require "pry"
